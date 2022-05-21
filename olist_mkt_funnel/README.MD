@@ -4,6 +4,9 @@
   <img src="https://cantswingacat.co.uk/wp-content/uploads/2019/08/spongebob-list-gif.gif">
 </p>
 
+<br>
+
+## ❓ Algumas perguntas respondidas 
 - Qual foi a taxa de conversão total? ```Taxa de conversão: 10.52%```
 - Qual foi a taxa de conversão de cada origem? 
 
