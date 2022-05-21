@@ -12,28 +12,13 @@
 - Quantos usuários, em média, deram nota para cada filme? ```Em média, 10.37 usuários deram nota para cada filme```
 - Quais são os cinco filmes para os quais mais usuários deram nota? ```Cinco filmes mais avaliados: Pulp Fiction (1994), The Shawshank Redemption (1994), Forrest Gump (1994), The Silence of the Lambs (1991), The Matrix (1999) ```
 - Qual o rating médio do filme "The Matrix"? ```4.19 foi o rating médio do filme The Matrix (1999)``` 
-- Para cada gênero de filme, quantos usuários deram cada nota possível?
-![]()
 - Cada filme tem um rating médio. Qual a média desses ratings, por gênero?
 
-|Gênero|Rating|
-|---|---|
-|Action|3.45|
-|Adventure|3.51|
-|Animation|3.63|
-|Children|3.41|
-|Comedy|3.38|
-|Crime|3.66|
-|Documentary|3.80|
-|Drama|3.66|
-|Fantasy|3.49|
-|Film-Noir|3.92|
-|Horror|3.26|
-|IMAX|3.62|
-|Musical|3.56|
-|Mystery|3.63|
-|Romance|3.51|
-|Sci-Fi|3.46|
-|Thriller|3.49|
-|War|3.81|
-|Western|3.58|
+|Gênero|Rating|Gênero|Rating|Gênero|Rating|Gênero|Rating|
+|---|---|---|---|---|---|---|---|
+|Action|3.45|Adventure|3.51|Animation|3.63|Animation|3.63|
+|Children|3.41|Comedy|3.38|Crime|3.66|Documentary|3.80|
+|Drama|3.66|Fantasy|3.49|Film-Noir|3.92|Horror|3.26|
+|IMAX|3.62|Musical|3.56|Mystery|3.63|Romance|3.51|
+|Sci-Fi|3.46|Thriller|3.49|War|3.81|Western|3.58|
+
