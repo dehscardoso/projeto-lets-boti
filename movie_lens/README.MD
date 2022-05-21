@@ -4,6 +4,7 @@
   <img src="https://user-images.githubusercontent.com/169328/62211026-6f480280-b395-11e9-9d64-cd059663054b.gif">
 </p>
 
+
 ## Perguntas e Respostas:
 - Quantos gêneros o filme "The Matrix" tem? Quais são os gêneros? ```O filme The Matrix (1999) têm 3 gêneros: Action, Sci-Fi e Thriller```
 - Quantos gêneros cada filme tem, em média? ```Os filmes têm em média: 2.27 gêneros```
