@@ -6,6 +6,7 @@
 
 <br>
 
+## ❓ Algumas perguntas respondidas 
 
 - Quais são os cinco produtos com maior quantidade de reviews? 
 ```Fitbit One Wireless Activity Plus Sleep, NatureWise Garcinia Cambogia Extract Natural, First Aid Shot Therapy Pain Relief, W700 Thermogenic Hyper-Metabolizer, Gillette Venus Snap with Embrace Women's```
