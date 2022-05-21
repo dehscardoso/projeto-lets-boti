@@ -4,8 +4,9 @@
   <img src="https://user-images.githubusercontent.com/169328/62211026-6f480280-b395-11e9-9d64-cd059663054b.gif">
 </p>
 
+<br>
 
-## Perguntas e Respostas:
+## ❓ Algumas perguntas respondidas 
 - Quantos gêneros o filme "The Matrix" tem? Quais são os gêneros? ```O filme The Matrix (1999) têm 3 gêneros: Action, Sci-Fi e Thriller```
 - Quantos gêneros cada filme tem, em média? ```Os filmes têm em média: 2.27 gêneros```
 - Quais são os cinco filmes com maior número de gêneros? ```Filmes com o maior número de gêneros: Who Framed Roger Rabbit? (1988), Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989), Robots (2005), Enchanted (2007), Rubber (2010)```
