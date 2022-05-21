@@ -1,30 +1,16 @@
 # AMAZON REVIEWS 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7c/9b/4b/7c9b4b6ff870e8c8a338a2c9e215622a.gif">
+  <img src="https://i.pinimg.com/originals/7c/9b/4b/7c9b4b6ff870e8c8a338a2c9e215622a.gif" width="300">
 </p>
 
+<br>
+
+
 - Quais são os cinco produtos com maior quantidade de reviews? 
+```Fitbit One Wireless Activity Plus Sleep, NatureWise Garcinia Cambogia Extract Natural, First Aid Shot Therapy Pain Relief, W700 Thermogenic Hyper-Metabolizer, Gillette Venus Snap with Embrace Women's```
 
-
-|asin| Produto|
-|---|---|
-|B00HK61L3C|Fitbit One Wireless Activity Plus Sleep
-|B00B5H5BGA|NatureWise Garcinia Cambogia Extract Natural
-|B00FMJKRB6|First Aid Shot Therapy Pain Relief
-|B00I5H5Z1O|W700 Thermogenic Hyper-Metabolizer
-|B0095PZHPE|Gillette Venus Snap with Embrace Women's
-
-- Quais são os cinco produtos com maior rating médio? 
-
-
-|asin| Produto|
-|---|---|
-|B004XC5CD6|Deodorant Stick, Long Lasting Apricot
-|B005MGDRRA|Boiron Optique 1 for Eye Irritations
-|B005MKP9OK|Four Piece Mach 3 Shave Set with Pure Badger
-|B005MKA4U4|Melaleuca Diamond Brite
-|B005MK9GYO|Optimox Corporation Iodoral
+- Quais são os cinco produtos com maior rating médio? ```Deodorant Stick, Long Lasting Apricot, Boiron Optique 1 for Eye Irritations, Four Piece Mach 3 Shave Set with Pure Badger, Melaleuca Diamond Brite, Optimox Corporation Iodoral```
 
 - Assuma que qualquer review com rating maior que 3 é positivo. (3.5, 4, 4.5, 5.0). Qual percentual de reviews positivos para os cinco produtos com maior quantidade de reviews? 
 
@@ -47,8 +33,6 @@
 |B005MKP9OK|Four Piece Mach 3 Shave Set with Pure Badger|100%
 |B005MKA4U4|Melaleuca Diamond Brite|100%
 |B005MK9GYO|Optimox Corporation Iodoral|100%
-
-- Quanto menos reviews, mais fácil ter um percentual maior de reviews positivos. Para comparar melhor os melhores produtos, vamos usar uma regra: qual seria o percentual de reviews positivos de todos os produtos, se eu adicionasse 1 review positivo e 1 review negativo? ``` ```
 
 
 - Qual o preço médio de todos os produtos? ```U$26.26```
